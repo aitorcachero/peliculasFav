@@ -8,7 +8,7 @@
 body {
   background-color: rgba(0, 0, 0, 0.73);
   gap: 2rem;
-  margin: 3rem;
+  margin: 5rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -63,15 +63,14 @@ img {
   box-sizing: border-box;
   width: 10rem;
   height: 15rem;
-  border-radius: 10px;
 }
 
 img:hover {
   box-sizing: border-box;
   box-shadow: 5px 5px 2px 2px black;
   cursor: pointer;
-  width: 12rem;
-  height: 17rem;
+  width: 11rem;
+  height: 16rem;
   transition: 1s;
 }
 

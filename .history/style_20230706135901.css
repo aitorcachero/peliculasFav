@@ -63,7 +63,7 @@ img {
   box-sizing: border-box;
   width: 10rem;
   height: 15rem;
-  border-radius: 10px;
+  border-radius: 5px;
 }
 
 img:hover {

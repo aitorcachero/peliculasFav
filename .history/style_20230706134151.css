@@ -8,7 +8,7 @@
 body {
   background-color: rgba(0, 0, 0, 0.73);
   gap: 2rem;
-  margin: 3rem;
+  margin: 5rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -39,44 +39,23 @@ main {
 }
 
 #div-text-top {
-  justify-items: center;
-  justify-content: center;
-  align-items: center;
-  align-content: center;
-  text-align: center;
-  height: 200px;
-  width: 200px;
-  box-sizing: border-box;
-  display: flex;
-  position: relative;
-  top: -20px;
+  top: 100px;
   margin-bottom: 3rem;
 }
 
-#main-text {
-  text-align: center;
-
-  position: absolute;
-}
-
 img {
-  box-sizing: border-box;
   width: 10rem;
   height: 15rem;
-  border-radius: 10px;
 }
 
 img:hover {
-  box-sizing: border-box;
   box-shadow: 5px 5px 2px 2px black;
   cursor: pointer;
-  width: 12rem;
-  height: 17rem;
-  transition: 1s;
+  width: 11rem;
+  height: 16rem;
 }
 
 ul {
-  box-sizing: border-box;
   display: flex;
   flex-direction: row;
   padding: 0;
@@ -95,5 +74,4 @@ li {
 
 h2 {
   color: white;
-  transition: 1s;
 }
