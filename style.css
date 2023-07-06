@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: rgba(0, 0, 0, 0.73);
+  background-image: url('./img/bg.jpg');
   gap: 2rem;
   margin: 3rem;
   display: flex;
@@ -70,8 +70,8 @@ img:hover {
   box-sizing: border-box;
   box-shadow: 5px 5px 2px 2px black;
   cursor: pointer;
-  width: 12rem;
-  height: 17rem;
+  width: 14rem;
+  height: 19rem;
   transition: 1s;
 }
 
@@ -94,6 +94,6 @@ li {
 }
 
 h2 {
-  color: white;
+  color: rgba(0, 0, 0, 0.45);
   transition: 1s;
 }
