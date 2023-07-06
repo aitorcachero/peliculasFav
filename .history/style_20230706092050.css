@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: rgba(0, 0, 0, 0.73);
+  background-color: rgba(0, 0, 0, 0.622);
   gap: 2rem;
   margin: 5rem;
   display: flex;
@@ -57,8 +57,4 @@ ul {
 li {
   margin: 0.4rem;
   color: blue;
-}
-
-h2 {
-  color: white;
 }
