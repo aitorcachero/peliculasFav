@@ -66,8 +66,7 @@ img {
   width: 10rem;
   height: 15rem;
   border-radius: 10px;
-  opacity: 0.7;
-  transition: 1s;
+  opacity: 0.5;
 }
 
 img:hover {
