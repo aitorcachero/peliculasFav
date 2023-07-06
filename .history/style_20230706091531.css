@@ -35,8 +35,6 @@ img {
 }
 
 img:hover {
-  box-shadow: 5px 5px 2px 2px black;
-  cursor: pointer;
 }
 
 ul {
@@ -50,4 +48,9 @@ ul {
 li {
   margin: 0.4rem;
   color: blue;
+}
+
+li:hover {
+  cursor: pointer;
+  box-shadow: 5px 5px 2px 2px black;
 }
