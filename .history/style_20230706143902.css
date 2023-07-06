@@ -37,7 +37,7 @@ main {
   justify-content: center;
   align-items: center;
   align-content: center;
-  opacity: 0.8;
+  opacity: 0.5;
 }
 
 #div-text-top {
@@ -66,6 +66,7 @@ img {
   width: 10rem;
   height: 15rem;
   border-radius: 10px;
+  opacity: 1;
 }
 
 img:hover {

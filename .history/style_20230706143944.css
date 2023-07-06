@@ -37,7 +37,7 @@ main {
   justify-content: center;
   align-items: center;
   align-content: center;
-  opacity: 0.8;
+  opacity: 0.5;
 }
 
 #div-text-top {
@@ -62,6 +62,8 @@ main {
 }
 
 img {
+  position: relative;
+  z-index: 999;
   box-sizing: border-box;
   width: 10rem;
   height: 15rem;
