@@ -9,3 +9,5 @@ img.forEach((element) => {
     nameMovie.innerHTML = '';
   });
 });
+
+img.forEach((element) => {});

@@ -5,6 +5,9 @@ img.forEach((element) => {
   element.addEventListener('mouseenter', () => {
     nameMovie.innerHTML = element.getAttribute('data-value');
   });
+});
+
+img.forEach((element) => {
   element.addEventListener('mouseleave', () => {
     nameMovie.innerHTML = '';
   });
